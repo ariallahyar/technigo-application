@@ -1,0 +1,57 @@
+/* Example styling of a h1 element */
+/*backup font if Google Fonts doesn't work --> "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+
+html {
+  background-color: #F5F5F5;
+}
+
+body {
+  color: #696969;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 25px;
+}
+
+h1 {
+  color: #FF6347;
+  font-family: inherit;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+.definition {
+  color: #696969;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+
+a {
+  color: #000080;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: inherit;
+  line-height: 40px;
+}
+
+ul {
+  list-style: square;
+  list-style-position: outside;
+}
+
+mark {
+  background-color: #FF6347;
+  color: #FFFFFF;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: inherit;
+  line-height: 28px;
+}
